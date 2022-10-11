@@ -1,0 +1,36 @@
+body {
+    background-color: orange;
+  
+}
+
+#wrap {
+    border: 5px dashed ;
+    background-color: #FFF8DC;
+    margin: 100px 300px;
+    
+
+}
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    border-bottom: 5px dashed;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    font-style: italic;
+}
+
+li::first-letter {
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.copyright{
+text-align: center;
+font-size: 50%;
+}

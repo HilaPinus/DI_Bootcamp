@@ -1,0 +1,128 @@
+body {
+    font-family: 'Shadows Into Light', cursive;
+    background-color: gainsboro;
+}
+
+
+nav {
+    background-color: lightblue;
+    text-align: center;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        display: block;
+      }
+
+a:hover {
+    background-color: lightcyan;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    font-size: 20px;
+    color: white;
+    padding: 70px;
+}
+
+h1 {
+    padding-bottom: 10px ;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px lightblue;
+    margin: 0;
+    display: block;
+
+}
+img {
+    border-radius: 80%;
+    width: 1300px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+      }
+
+article {
+    border: 5px solid ivory;
+    justify-content: center;
+    text-align: center;
+}
+
+.stories {  
+    margin: 10px;
+    border: 5px solid lightcyan;
+    width: 30%;
+    height: auto;
+    display: inline-block;
+}
+
+.storypic {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+hr {
+    width: 30%;
+}
+
+
+.event {  
+    margin: 10px;
+    border: 5px solid lightcyan;
+    width: 20%;
+    height: auto;
+    display: inline-block;
+    font-weight: 100000;
+    background-color: lightblue;
+    border-radius: 50%;
+}
+
+#shilobirth:hover {
+    background-image: url("shilobd.jpg");
+    background-size: cover;
+    opacity: 0.75; 
+}
+
+#dog:hover {
+    background-image: url("chirsi.jpg");
+    background-size: cover;
+    opacity: 0.75; 
+}
+
+#miabirthday:hover {
+    background-image: url("miabd.jpg");
+    background-size: cover;
+    opacity: 0.75; 
+}
+
+#holidays:hover {
+    background-image: url("holi.jpg");
+    background-size: cover;
+    opacity: 0.75; 
+}
+
+#vacations:hover {
+    background-image: url("road.jpg");
+    background-size: cover;
+    opacity: 0.75; 
+}
+
+
+#twoofus:hover {
+    background-image: url("just.jpg");
+    background-size: cover;
+    opacity: 0.75; 
+}
+
+
+#homedays:hover {
+    background-image: url("homey.jpg");
+    background-size: cover;
+    opacity: 0.75; 
+}

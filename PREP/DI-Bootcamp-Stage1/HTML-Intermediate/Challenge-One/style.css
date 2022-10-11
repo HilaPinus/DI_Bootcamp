@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    background-color: darkblue;
+
+
+}
+
+#wrap {
+    display: flex; 
+
+
+}
+
+#nav {
+    background-color: lightblue;
+    display: inline-block;
+    width: 150px;
+}
+
+#content {
+    background-color: 5b7fbd;
+    display: inline-block;
+    width: 500px;
+    text-align: center;
+}
+    
+#none {
+    list-style-type: none;
+}
+
+.copyright {
+    footer
+}
